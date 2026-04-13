@@ -14,6 +14,8 @@
   - Here is my personal page: https://shw146.github.io/CSE110Lab1/
 - Pranav Ganesan
 - Sahana Rangaraj
+   - I'm a 3rd year Computer Science major. I like to read, press flowers, and drink copious amounts of Redbull (python also has me in shambles).
+   - [My personal page](https://sa-rangaraj.github.io/110-lab1/)
 - Quinton Fu
 - Wayne Su
 - Kabyan Pathak
