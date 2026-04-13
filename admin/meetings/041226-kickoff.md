@@ -16,7 +16,7 @@
 | Wayne Su | Absent |
 | Kabyan Pathak | Absent |
 | Chan Han | Absent |
-| John Hermosura | Absent |
+| John Hermosura | Present |
 | Jordan Tran | Absent |
 | Hojoon Kim | Absent |
 | Ayla Kurdak (TA) | Invited |
