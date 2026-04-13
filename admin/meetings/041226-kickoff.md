@@ -9,17 +9,17 @@
 ### 1. Attendance
 | Member | Status |
 | :--- | :--- |
-| Member Name 1 | Present |
-| Member Name 2 | Present |
-| Member Name 3 | Absent |
-| Member Name 4 | Absent |
-| Member Name 5 | Absent |
-| Member Name 6 | Absent |
-| Member Name 7 | Absent |
-| Member Name 8 | Absent |
-| Member Name 9 | Absent |
-| Member Name 10 | Absent |
-| TA Mentor | Invited |
+| Shawn Wang | Present |
+| Pranav Ganesan | Present |
+| Sahana Rangaraj | Present |
+| Quinton Fu | Absent |
+| Wayne Su | Absent |
+| Kabyan Pathak | Absent |
+| Chan Han | Absent |
+| John Hermosura | Absent |
+| Jordan Tran | Absent |
+| Hojoon Kim | Absent |
+| Ayla Kurdak (TA) | Invited |
 
 ### 2. Agenda
 1. Introduce team members.
