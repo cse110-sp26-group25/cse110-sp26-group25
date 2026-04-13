@@ -17,6 +17,8 @@
    - I'm a 3rd year Computer Science major. I like to read, press flowers, and drink copious amounts of Redbull (python also has me in shambles).
    - [My personal page](https://sa-rangaraj.github.io/110-lab1/)
 - Quinton Fu
+   - I'm a 2nd year Computer Science major. I have an unhealthy obsession of all things Minecraft-related (playing in general, coding mods, building computational redstone circuit, etc) 
+   - [My personal page](https://rxlc.github.io/cse110_site/)
 - Wayne Su
 - Kabyan Pathak
 - Chan Han
