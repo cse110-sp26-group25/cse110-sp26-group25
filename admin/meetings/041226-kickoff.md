@@ -1,5 +1,5 @@
 # Meeting Minutes: Kickoff Meeting
-**Team Number/Name:** Group 25 / [knowideas]  
+**Team Number/Name:** Group 25 / [KnowIdeas]  
 **Date:** [04/12/26]  
 **Time:** [7:30] - [8:30]  
 **Location:** [Geisel Library]  
