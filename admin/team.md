@@ -11,7 +11,7 @@
 # **Roster:** 
 - Shawn Wang
   - I'm one of the assigned team leaders! I love playing games and water polo, spend tons of time cooking, and my favorite language is Java (python has me in shambles)
-  - Here is my personal page: https://shw146.github.io/CSE110Lab1/
+  - Here is my [personal page](https://shw146.github.io/CSE110Lab1/)
 - Pranav Ganesan
 - Sahana Rangaraj
    - I'm a 3rd year Computer Science major. I like to read, press flowers, and drink copious amounts of Redbull (python also has me in shambles).
@@ -21,6 +21,8 @@
 - Kabyan Pathak
 - Chan Han
 - John Hermosura
+   - Hi! I like speed cubing, playing bass, and solving puzzles. I am a cat person and an INTP. I also feel the most comfortable with Java
+   - My [Personal Page](https://cr1nf.github.io/CSE-110-Lab-1/)
 - Jordan Tran
 - Hojoon Kim
 - Ayla Kurdak (TA)
