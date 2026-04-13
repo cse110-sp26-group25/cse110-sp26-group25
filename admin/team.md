@@ -29,5 +29,7 @@
    - Hello! I like to hangout, explore, and play video games! My first personal project was Java.
    - My [Personal Page](https://jbtran05.github.io/CSE110---Lab1/) 
 - Hojoon Kim
+     - I am junior computer science major! I like to hang out with my friends in my free time.
+     - [My personal page](https://github.com/Hjkim118/cse110-lab1)
 - Ayla Kurdak (TA)
 
