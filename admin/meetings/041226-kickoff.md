@@ -12,13 +12,13 @@
 | Shawn Wang | Present |
 | Pranav Ganesan | Present |
 | Sahana Rangaraj | Present |
-| Quinton Fu | Absent |
+| Quinton Fu | Present |
 | Wayne Su | Absent |
 | Kabyan Pathak | Absent |
 | Chan Han | Absent |
 | John Hermosura | Present |
 | Jordan Tran | Absent |
-| Hojoon Kim | Absent |
+| Hojoon Kim | Present |
 | Ayla Kurdak (TA) | Invited |
 
 ### 2. Agenda
