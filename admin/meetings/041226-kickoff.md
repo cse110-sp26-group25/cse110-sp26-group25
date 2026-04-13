@@ -112,11 +112,14 @@
 ## Teams Tasks
 - [X] Kickoff meeting 
 - [X] Group Contract 
-- [ ] Discuss Group rolls  *due to lack of attendance 
+- [ ] Discuss Group rolls  *due to lack of attendance
+- [X] Group Branding 
+- [X] AI Assignment 
 
 ## Upcoming Indivudal Responsibilites:
 - [ ] Personal Tasks
 - [ ] Everyone needs to make their own rules-studentname.pdf
+- [ ] Work on assigned portion of AI assignment 
 
 
 
@@ -125,4 +128,4 @@
 
 
 ---
-**Meeting Adjourned:** [Time]
+**Meeting Adjourned:** [9:30]
