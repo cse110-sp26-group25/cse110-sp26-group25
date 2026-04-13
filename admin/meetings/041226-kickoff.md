@@ -1,7 +1,7 @@
 # Meeting Minutes: Kickoff Meeting
 **Team Number/Name:** Group 25 / [knowideas]  
 **Date:** [04/12/26]  
-**Time:** [6:00] - [11:59]  
+**Time:** [7:30] - [8:30]  
 **Location:** [Geisel Library]  
 
 ---
@@ -12,6 +12,13 @@
 | Member Name 1 | Present |
 | Member Name 2 | Present |
 | Member Name 3 | Absent |
+| Member Name 4 | Absent |
+| Member Name 5 | Absent |
+| Member Name 6 | Absent |
+| Member Name 7 | Absent |
+| Member Name 8 | Absent |
+| Member Name 9 | Absent |
+| Member Name 10 | Absent |
 | TA Mentor | Invited |
 
 ### 2. Agenda
