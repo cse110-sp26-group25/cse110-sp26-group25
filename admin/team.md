@@ -26,6 +26,8 @@
    - Hi! I like speed cubing, playing bass, and solving puzzles. I am a cat person and an INTP. I also feel the most comfortable with Java
    - My [Personal Page](https://cr1nf.github.io/CSE-110-Lab-1/)
 - Jordan Tran
+   - Hello! I like to hangout, explore, and play video games! My first personal project was Java.
+   - My [Personal Page](https://jbtran05.github.io/CSE110---Lab1/) 
 - Hojoon Kim
 - Ayla Kurdak (TA)
 
