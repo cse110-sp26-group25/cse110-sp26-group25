@@ -21,7 +21,9 @@
    - [My personal page](https://rxlc.github.io/cse110_site/)
 - Wayne Su
 - Kabyan Pathak
-- Chan Han
+- Chan Han (Darci)
+   - Hello! I'm a CSE transfer from LA!! Love cooking and baking and the beach!
+   - [Personal Page](https://darcihan.github.io/GitHub-Pages/)
 - John Hermosura
    - Hi! I like speed cubing, playing bass, and solving puzzles. I am a cat person and an INTP. I also feel the most comfortable with Java
    - My [Personal Page](https://cr1nf.github.io/CSE-110-Lab-1/)
