@@ -22,6 +22,8 @@
 - Wayne Su
 - Kabyan Pathak
 - Chan Han
+  I go by Darci! I am a CSE transfer major and I love cooking and baking!!
+  [Personal](https://darcihan.github.io/GitHub-Pages/)
 - John Hermosura
    - Hi! I like speed cubing, playing bass, and solving puzzles. I am a cat person and an INTP. I also feel the most comfortable with Java
    - My [Personal Page](https://cr1nf.github.io/CSE-110-Lab-1/)
