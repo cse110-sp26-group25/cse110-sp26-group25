@@ -21,6 +21,8 @@
    - [My personal page](https://rxlc.github.io/cse110_site/)
 - Wayne Su
 - Kabyan Pathak
+   - I am a 2nd year Computer Science Major. I like to read books, novels, and manga/manhwa. I also like playing games and delving into security topics like hacking.
+   - [My personal page](https://kabyanpathak.github.io/Lab1_Assignment/)
 - Chan Han
   I go by Darci! I am a CSE transfer major and I love cooking and baking!!
   [Personal](https://darcihan.github.io/GitHub-Pages/)
