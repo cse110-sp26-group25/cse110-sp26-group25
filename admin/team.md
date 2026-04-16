@@ -20,6 +20,8 @@
    - I'm a 2nd year Computer Science major. I have an unhealthy obsession of all things Minecraft-related (playing in general, coding mods, building computational redstone circuit, etc) 
    - [My personal page](https://rxlc.github.io/cse110_site/)
 - Wayne Su
+  - I am a Mathematics - Computer Science student at **University of California, San Diego**, and am passionate about *Cyber/Network Security*, *Signals Intelligence*, and *Digital Forensics*.
+  - [My Personal Page](https://ucsdwlsu.github.io/CSE-110/)
 - Kabyan Pathak
    - I am a 2nd year Computer Science Major. I like to read books, novels, and manga/manhwa. I also like playing games and delving into security topics like hacking.
    - [My personal page](https://kabyanpathak.github.io/Lab1_Assignment/)
