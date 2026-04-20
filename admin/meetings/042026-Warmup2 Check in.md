@@ -56,4 +56,3 @@
 
 
 ---
-**Meeting Adjourned:** [9:30]
