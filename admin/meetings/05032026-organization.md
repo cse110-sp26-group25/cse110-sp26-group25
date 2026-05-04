@@ -14,7 +14,7 @@
 | Sahana Rangaraj | Present - In person |
 | Quinton Fu | Absent |
 | Wayne Su | Absent |
-| Kabyan Pathak | Absent |
+| Kabyan Pathak | Present - In person  |
 | Darci (Chan) Han | Absent (car broke down) |
 | John Hermosura | Present - In person |
 | Jordan Tran | Present - Zoom (notified) |
@@ -115,8 +115,12 @@
 ### Individual Action items 
 - [ ] Confirm whether you're comfortable using a groupchat in liu of a notifications channel
 - [ ] Understand how to set custom statuses
-- [ ] Answer the lettucemeet's
-- [ ] Update your avaiability (once we decide what application we're using) 
+- [ ] Answer the lettucemeet for next week 
+- [ ] Update your avaiability (once we decide what application we're using)
+- [ ] **Research and Prototype 2 project prototypes** by Tuesday EOD
+     - Prioritize making different style of games / different ideas for minigames
+     - The focus is brainstorming, rather than robust prototyping
+     - Will expect you to use the "Updates" channel for this  
 
 ### Team Action items 
 - [ ] Create pull/issue templates
