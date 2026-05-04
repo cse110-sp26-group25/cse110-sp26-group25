@@ -10,7 +10,7 @@
 | Member | Status |
 | :--- | :--- |
 | Shawn Wang | Present |
-| Pranav Ganesan | Absent |
+| Pranav Ganesan | Present |
 | Sahana Rangaraj | Present |
 | Quinton Fu | Absent |
 | Wayne Su | Present |
