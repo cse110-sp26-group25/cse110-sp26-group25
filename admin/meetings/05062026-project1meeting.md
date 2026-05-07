@@ -51,7 +51,7 @@
 - add user level progression
 - get game play loop down (display, prompting, player character, enemey character, stats, interaction betweeen stats
 - game theory phrase - before making prototype
-- **assign tasks: create and traverse grid (notate where in the grid you are), need player character including attributes (health, defense, damage, etc.), need
+- **assign tasks**: create and traverse grid (notate where in the grid you are), need player character including attributes (health, defense, damage, etc.), need
 - enemy character (similar to player character), battle system which for now let's keep simple and you hit, term based battle system
 - battle system needs to interact with statistics system (like DND), inventory is done as an array (traversing investory, identifying current slot
 - displaying current item, key/hot switch, access item for inventory), skins(for later)
@@ -60,7 +60,7 @@
 - create a self-contained game that is pre-loaded
 - write documentation for each task
 - integrate calendar with slack by EOD Friday to schedule general and standup meetings. 
-- consult Ayla about scope of project**
+- consult Ayla about scope of project
 
 
 
