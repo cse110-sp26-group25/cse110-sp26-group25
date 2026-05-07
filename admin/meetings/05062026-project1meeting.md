@@ -59,7 +59,8 @@
 - gameengine framework/api javscript
 - create a self-contained game that is pre-loaded
 - write documentation for each task
-- 
+- integrate calendar with slack by EOD Friday to schedule general and standup meetings. 
+- consult Ayla about scope of project
 
 
 
