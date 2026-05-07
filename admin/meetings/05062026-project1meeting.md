@@ -16,7 +16,7 @@
 | Wayne Su | Present  |
 | Kabyan Pathak | Present |
 | Chan Han | Present |
-| John Hermosura | Present (Zoom) |
+| John Hermosura | Present (Zoom - Notified) |
 | Jordan Tran | Present |
 | Hojoon Kim | Present |
 | Ayla Kurdak (TA) | Invited |
