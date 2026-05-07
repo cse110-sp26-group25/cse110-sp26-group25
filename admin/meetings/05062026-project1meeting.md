@@ -18,7 +18,7 @@
 | Chan Han | Present |
 | John Hermosura | Present (Zoom) |
 | Jordan Tran | Present |
-| Hojoon Kim | MIA |
+| Hojoon Kim | Present |
 | Ayla Kurdak (TA) | Invited |
 
 ## 2. Agenda
