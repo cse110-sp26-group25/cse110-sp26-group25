@@ -61,6 +61,7 @@
 - write documentation for each task
 - integrate calendar with slack by EOD Friday to schedule general and standup meetings. 
 - consult Ayla about scope of project
+- have MVP designed 
 
 
 
