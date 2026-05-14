@@ -23,7 +23,15 @@
 
 ## 2. Agenda
 1. Finish MVP
+  - Should we be using a pre made game engine?
 2. Start mockup or prototype demo of game
+3. Schedule weekly meetings
+4. Reinforce existing tasks
+  - Filling out standup queries
+  - Reacting to announcements
+  - Communicating with each other
+  - Putting updates in the updates channel
+5. Address integrations and how useful they are
 
 ## Upcoming Indivudal Responsibilites:
 - [ ] Write ADR documents based on your MVP decision
