@@ -56,6 +56,9 @@
          - Also note that we are still considering using some kind of database similar to SQLite in order to store player information in the cloud. This would remove the vulnerability of the player altering their local storage, but be advised that this would likely be another "married" decision and a dependency.
 
 
+<img width="1000" height="1333" alt="IMG_1172" src="https://github.com/user-attachments/assets/b493d88e-483f-434a-a5f8-319d34c2349b" />
+
+
 ## Upcoming Indivudal Responsibilites:
 - [ ] Write ADR documents based on game engine decision
 - [ ] Use MADR format. Every major technical decision needs an ADR.
