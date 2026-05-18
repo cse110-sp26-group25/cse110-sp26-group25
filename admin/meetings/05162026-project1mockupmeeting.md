@@ -26,60 +26,46 @@
 ---
 
 ## 2. Agenda
-- Define Minimum Viable Product (MVP) components.
-- Select a pre-made game engine (Married Decision).
-- Discuss mobile compatibility and separate HTML layouts.
-- Establish data storage strategy (Local Storage vs. SQLite).
-- Review project backlog and upcoming task assignments.
-- Finalize CI/CD pipeline requirements.
+- Finalize MVP definition and core project specs.
+- Confirm Game Engine selection and next steps for integration.
+- Assign high-priority backlog items for the current sprint.
+- Review mobile vs. desktop layout strategy.
+- Finalize CI/CD and data storage roadmap.
 
 ---
 
-## 3. Meeting Notes
+## 3. Meeting Notes & Project Specifications
 
-### MVP Definition & Frontend Strategy
-* **Design Priority:** High. Since this is an investigator/puzzle game, visual design is crucial for player engagement.
-* **Mobile Compatibility:** The team will implement separate HTML pages for mobile and desktop in parallel to avoid "porting" debt later.
-* **Feedback Loops:** Focus on SFX, VFX, and UI throttling to ensure a responsive feel.
+### Major Decisions
+* **Game Engine:** The team has officially selected **ct.js**. This is a "married" decision; the corresponding ADR should be finalized immediately.
+* **Genre/Theme:** "The Case of the Golden Idol" style puzzle game. Players act as MIB investigators analyzing HTML-based information files.
+* **Core Mechanic:** Typing-centric gameplay. Key features include a **Debugging** mode and a **Word box** for clue assembly.
+* **Scale:** 3–5 levels. Each level features interactive objects/characters that provide clues to fill in story "blanks" (e.g., *Darci killed [___] and ran off with [___]*).
 
-### Game Mechanics (The "Case of the Golden Idol" Type)
-* **Genre:** Puzzle/Investigator.
-* **Story:** Players act as MIB investigators. Clues are gathered into a "Word box" to fill in overarching story bits.
-* **Typing Integration:** Typing will be the main interaction method (Debugging mode and Word box entry).
-* **Scale:** Aiming for 3-5 levels with interactive objects/characters containing clues.
-
-### Backend & Technical Decisions
-* **Game Engine:** We will use a pre-made engine. Options to review by **5/14**:
-    * Pixi.JS
-    * Phaser
-    * ct.JS
-    * ROT.JS
-* **Storage:** Initial implementation will use **Local Storage**. We are weighing a move to **SQLite** for cloud sync and better security against user-side data alteration.
+### Technical Breakdown
+* **Frontend:** Mobile and Desktop detection is a priority. We will develop separate layouts in parallel to ensure a seamless experience on both platforms.
+* **Backend:** Focus on the Accuracy Checker (validating user input vs. the story answer) and the Scene Data Fetcher.
+* **Database:** Starting with **Local Storage** for save states (clues, levels, wordbox) but maintaining a roadmap for a cloud-based SQL migration for security.
 
 ---
 
-## 4. Backlog & Task Assignments (5/16 - 5/22)
+## 4. Backlog & Task Assignments (Current Sprint)
 
 | Priority | Task | Assigned To |
 | :--- | :--- | :--- |
-| **Ultra Important** | Overarching story and substories | Darci, Sahana, Pranav |
-| **Ultra Important** | Wireframing the look of the game | Shawn, Kabyan |
-| **Ultra Important** | Detecting mobile/desktop & Data Fetch | Hojoon, John |
-| **Ultra Important** | Accuracy checker & Wordbox update | Quinton, Wayne, Jordan |
-| **Important** | UI/Book design & Event checks | TBD |
-| **Medium** | Character and item design | TBD |
-| **Low** | User skins & Animations | TBD |
+| **Ultra Important** | Overarching story and substories (Level 1-5) | Darci, Sahana, Pranav |
+| **Ultra Important** | Wireframing the UI/Look of the game | Shawn, Kabyan |
+| **Ultra Important** | Mobile/Desktop detection & Fetching scene data | Hojoon, John |
+| **Ultra Important** | Accuracy checker & Wordbox logic | Quinton, Wayne, Jordan |
+| **Important** | UI / "The Book" interface & Pop-up screens | TBD |
+| **Important** | Saving states and Tutorial stage | TBD |
 
 ---
 
-## 5. Upcoming Individual Responsibilities
+## 5. Action Items & Upcoming Responsibilities
 
-- [ ] **Game Engine Choice:** Everyone must review Pixi, Phaser, ct.JS, and ROT.JS. Deadline: **05/14**.
-- [ ] **Write ADRs:** Use MADR format for the game engine and database choice.
-- [ ] **MVP Workflows:** Design ad hoc diagrams (Miro/Figma/Whiteboard).
-- [ ] **CI/CD Pipeline:** Shawn/Hojoon to ensure GitHub Actions are running before major development starts.
-- [ ] **Exit Criteria:** MVP with at least one diagram must be completed before development continues.
-
----
-
-**Next Meeting:** TBD (Weekly schedule to be finalized).
+- [ ] **Finalize ADR:** Document the choice of **ct.js** using the MADR format.
+- [ ] **Workflow Diagrams:** Create visual flowcharts for the gameplay loop (Investigate → Wordbox → Story Completion).
+- [ ] **GitHub Actions:** Verify CI/CD pipeline is fully operational before pushing major ct.js assets.
+- [ ] **Asset Design:** Initiate character/item design to avoid "lack of design" pitfalls identified in MVP goals.
+- [ ] **Exit Criteria:** Ensure at least one full level diagram is completed before the next sync (5/20)
