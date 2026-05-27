@@ -13,3 +13,21 @@ Mobile Usability: Have you considered how this game will translate for mobile de
 
 ## Suggestions
 Maintain the Changelog: Since you already have a CHANGELOG.md file, consider using it to document major milestones (e.g., "MVP 1.0 - Basic Issue Creation") so that viewers can easily track progress without reading the full commit history. While there is pretty good documentation within the commits made so far, having such a large amount has been burying some important information that we think could be helpful in the future. (ie. there was a journey map made with a commit message for it, but it has since been buried after being made 2 weeks ago)
+
+
+# Group 24 Peer Review
+
+## Strengths
+The README is really organized. It was easy to look through different files because the documentation was consistent. Reading each ADR made the next one easier to read through and understand.
+The code has individual comments for functions that include the function description. They take up a single line and are concise, which makes reading through the code less tedious
+
+## Improvements
+The music and sound effects are really loud at the moment, so it would be really nice if there could be some kind of adjustment for it apart from the user changing their entire system’s sound settings.
+There seems to be some kind of bug in the code that is making it so that the first string inputted registers properly but all strings after that end up skipping the first two letters in the input string
+
+## Questions
+How are issues being kept in a backlog? There are github issues, but not a clear signal for where they are coming from and where to go for more information. This might not actually be a problem if there is some kind of external tool being used.
+
+## Suggestions
+It looks like there is a lot of “div soup” in the index.html file. It could be a good idea to use more semantic html elements that have already been added into base html rather than assigning classes. This would help a lot with the readability of the CSS code and creating more modular code components. 
+
