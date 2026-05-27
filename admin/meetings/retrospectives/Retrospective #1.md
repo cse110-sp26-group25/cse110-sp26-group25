@@ -1,4 +1,4 @@
-# Retrospective Meeting #1 (This is for sprint 2)
+# Retrospective Meeting #1 (For sprint of weeek 7)
 
 ## Meeting Agenda
 - Review work done for week 1
